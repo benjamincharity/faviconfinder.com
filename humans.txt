@@ -1,0 +1,19 @@
+/* TEAM */
+  Benjamin Charity
+  Contact: ben@benjamincharity.com
+  Twitter: @benjamincharity
+  GitHub: https://github.com/benjamincharity
+  From: Atlanta, GA
+
+
+/* SITE */
+  Last update: 10/25/2011
+  Language: English
+  Doctype: HTML5
+  IDE: MacVim, iTerm,
+  Services: Heroku, Hover
+  In the site: MiddlemanApp, jQuery
+
+/* RANDOM */
+  Background pattern from http://subtlepatterns.com
+  Idea from: http://www.labnol.org/internet/get-favicon-image-of-websites-with-google/4404/
