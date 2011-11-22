@@ -7,12 +7,12 @@
 
 
 /* SITE */
-  Last update: 10/25/2011
+  Last update: 11/21/2011
   Language: English
   Doctype: HTML5
   IDE: MacVim, iTerm,
   Services: Heroku, Hover
-  In the site: MiddlemanApp, jQuery
+  In the site: Nesta CMS, jQuery
 
 /* RANDOM */
   Background pattern from http://subtlepatterns.com
