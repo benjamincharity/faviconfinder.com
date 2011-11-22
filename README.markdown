@@ -5,3 +5,5 @@ A simple online tool utilizing Google's favicon search to find and display a web
 ### Reason:
 
 I was bored in a meeting...so I made this.
+
+*Moved from Middleman to Nesta so that I could host on Heroku*
