@@ -61,7 +61,7 @@ google_analytics_code: "UA-12135040-5"
 #
 # Don't forget to uncomment the "production:" line too...
 
-production:
-  cache: true    
-  content: /var/apps/nesta/shared/content
-  google_analytics_code: "UA-12135040-5"
+#production:
+  #cache: true    
+  #content: /var/apps/nesta/shared/content
+  #google_analytics_code: "UA-12135040-5"
