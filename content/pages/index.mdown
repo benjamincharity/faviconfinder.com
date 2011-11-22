@@ -1,3 +1,2 @@
-# test page
+# Favicon Finder
 
-blah blah blah
