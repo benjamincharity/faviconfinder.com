@@ -7,13 +7,13 @@
 
 
 /* SITE */
-  Last update: 11/21/2011
+  Last update: 08/09/2013
   Language: English
   Doctype: HTML5
-  IDE: MacVim, iTerm,
-  Services: Heroku, Hover
-  In the site: Nesta CMS, jQuery
+  IDE: MacVim, iTerm2,
+  Services: Amazon S3, Hover
+  In the site: Zepto
 
-/* RANDOM */
+/* CREDIT */
   Background pattern from http://subtlepatterns.com
   Idea from: http://www.labnol.org/internet/get-favicon-image-of-websites-with-google/4404/

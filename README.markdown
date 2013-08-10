@@ -1,6 +1,7 @@
 # Favicon Finder
 
-A simple online tool utilizing Google's S2 Converter favicon search to find and display a website's favicon.
+A simple online tool utilizing Google's S2 Converter favicon search to find and
+display a website's favicon.
 
 ### Reason:
 
